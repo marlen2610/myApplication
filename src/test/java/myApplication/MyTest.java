@@ -5,10 +5,10 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class MyTests {
+public class MyTest {
 
     @Test
-    public void multiplicationOfZeroIntegersShouldReturnZero() {
+    public void multiplicationOfZeroIntegersShouldReturnZeroTest() {
         MyClass tester = new MyClass(); // MyClass is tested
         // assert statements
         assertTrue("10 x 0 must be 0", tester.multiply(10, 0) == 0);
