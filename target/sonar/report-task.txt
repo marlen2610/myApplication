@@ -1,0 +1,6 @@
+projectKey=com.ericsson.dev:myApplication
+serverUrl=http://localhost:9000
+serverVersion=6.7.1.35068
+dashboardUrl=http://localhost:9000/dashboard/index/com.ericsson.dev:myApplication
+ceTaskId=AWGwpMKxNlBmpN4aVM9w
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWGwpMKxNlBmpN4aVM9w
